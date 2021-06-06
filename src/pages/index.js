@@ -838,7 +838,7 @@ const IndexPage = () => {
         </div>
       </div>
     </div>
-    <div classname="row">
+    <div classname="row" >
   <div classname="col-lg-12">
     <div classname="Footer__BottomWrap-sc-13334au-13 lgoIOh">
       <div classname="Footer__LangCopyrightColumn-sc-13334au-14 hlzogk">
