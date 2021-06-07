@@ -18,31 +18,31 @@ const IndexPage = () => {
 
 
     const [Data, setData] = useState([{
-            image: "/static/images/wallet-buy.png",
+            image: "/images/wallet-buy.png",
             id: 0,
             title: "BlockChain is a big chain ",
             desc: "Its a Dummay Text using in this website  "
         },
         {
-            image: "/static/images/wallet-control-funds.png",
+            image: "/images/wallet-control-funds.png",
             id: 1,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
         },
         {
-            image: "/static/images/wallet-earn-interest.png",
+            image: "/images/wallet-earn-interest.png",
             id: 2,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
         },
         {
-            image: "/static/images/wallet-borrow.png",
+            image: "/images/wallet-borrow.png",
             id: 3,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
         },
         {
-            image: "/static/images/wallet-swap.png",
+            image: "/images/wallet-swap.png",
             id: 4,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
@@ -50,28 +50,28 @@ const IndexPage = () => {
     ])
 
     const [DataTwo, setDataTwo] = useState([{
-            image: "/static/images/exchange-fiat-currencies.png",
+            image: "/images/exchange-fiat-currencies.png",
             id: 0,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
 
         },
         {
-            image: "/static/images/exchange-matching-engine.png",
+            image: "/images/exchange-matching-engine.png",
             id: 1,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
 
         },
         {
-            image: "/static/images/exchange-chat-support.png",
+            image: "/images/exchange-chat-support.png",
             id: 2,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
 
         },
         {
-            image: "/static/images/exchange-api.png",
+            image: "/images/exchange-api.png",
             id: 3,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
@@ -80,28 +80,28 @@ const IndexPage = () => {
     ])
 
     const [DataThree, setDataThree] = useState([{
-            image: "/static/images/explore-blockchains.png",
+            image: "/images/explore-blockchains.png",
             id: 0,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
 
         },
         {
-            image: "/static/images/explore-api.png",
+            image: "/images/explore-api.png",
             id: 1,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
 
         },
         {
-            image: "/static/images/explore-charts.png",
+            image: "/images/explore-charts.png",
             id: 2,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
 
         },
         {
-            image: "/static/images/explore-prices.png",
+            image: "/images/explore-prices.png",
             id: 3,
             title: "BlockChain is a big chain ",
             desc: "Description for a blockchain "
@@ -261,7 +261,7 @@ const IndexPage = () => {
                               </ul>
                          
                             </nav>
-                            <button color="white" class="MenuButtonHeader__ButtonContainer-urn3wi-0 jBpvMa"><img class="menu" src="/static/images/icon-menu.svg" aria-label="open menu" height="24" width="24"/><svg stroke="currentColor" fill="none" strokeWidth="2" viewBox="0 0 24 24" strokeLinecap="round" strokeLinejoin="round" class="close" aria-label="close menu" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></button>
+                            <button color="white" class="MenuButtonHeader__ButtonContainer-urn3wi-0 jBpvMa"><img class="menu" src="/images/icon-menu.svg" aria-label="open menu" height="24" width="24"/><svg stroke="currentColor" fill="none" strokeWidth="2" viewBox="0 0 24 24" strokeLinecap="round" strokeLinejoin="round" class="close" aria-label="close menu" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></button>
                           </div>
                         </div>
                       </div>
@@ -289,7 +289,7 @@ const IndexPage = () => {
               <a className="Prices__CoinCardLink-n3azef-6 ioooOI" href="https://www.blockchain.com/prices/BTC/">
                 <div className="Prices__Header-n3azef-16 bNDbFp">
                   <div className="Prices__IconContainer-n3azef-17 bsCBuV">
-                    <img alt="BTC icon" src="/static/images/prices-btc.svg" className="Prices__Icon-n3azef-18 kRCMqn" />
+                    <img alt="BTC icon" src="/images/prices-btc.svg" className="Prices__Icon-n3azef-18 kRCMqn" />
                   </div><div className="Prices__Actions-n3azef-19 kTHItA">
                     <button className="Prices__Button-n3azef-8 eIHwN">Buy</button>
                     <button className="Prices__Button-n3azef-8 Prices__TradeButton-n3azef-9 gnGRaq">Trade</button></div>
@@ -312,7 +312,7 @@ const IndexPage = () => {
                 </div>
               </a>
               <a className="Prices__CoinCardLink-n3azef-6 ioooOI" intl="[object Object]" href="https://www.blockchain.com/prices/ETH/"><div className="Prices__Header-n3azef-16 bNDbFp"><div className="Prices__IconContainer-n3azef-17 bsCBuV">
-                    <img alt="ETH icon" src="/static/images/prices-eth.svg" className="Prices__Icon-n3azef-18 kRCMqn" /></div><div className="Prices__Actions-n3azef-19 kTHItA">
+                    <img alt="ETH icon" src="/images/prices-eth.svg" className="Prices__Icon-n3azef-18 kRCMqn" /></div><div className="Prices__Actions-n3azef-19 kTHItA">
                     <button className="Prices__Button-n3azef-8 eIHwN">Buy</button>
                     <button className="Prices__Button-n3azef-8 Prices__TradeButton-n3azef-9 gnGRaq">Trade</button></div></div>
                 <div className="Prices__CoinNameContainer-n3azef-11 jeNYII">
@@ -332,7 +332,7 @@ const IndexPage = () => {
                 <div className="Prices__ChartContainer-n3azef-10 dBOFHT">
                   <div style={{ width: '100%', height: '100%' }} /></div>
               </a>
-              <a className="Prices__CoinCardLink-n3azef-6 ioooOI" intl="[object Object]" href="https://www.blockchain.com/prices/XLM/"><div className="Prices__Header-n3azef-16 bNDbFp"><div className="Prices__IconContainer-n3azef-17 bsCBuV"><img alt="XLM icon" src="/static/images/prices-xlm.svg" className="Prices__Icon-n3azef-18 kRCMqn" />
+              <a className="Prices__CoinCardLink-n3azef-6 ioooOI" intl="[object Object]" href="https://www.blockchain.com/prices/XLM/"><div className="Prices__Header-n3azef-16 bNDbFp"><div className="Prices__IconContainer-n3azef-17 bsCBuV"><img alt="XLM icon" src="/images/prices-xlm.svg" className="Prices__Icon-n3azef-18 kRCMqn" />
                   </div>
                   <div className="Prices__Actions-n3azef-19 kTHItA">
                     <button className="Prices__Button-n3azef-8 eIHwN">Buy</button>
@@ -357,7 +357,7 @@ const IndexPage = () => {
               <a className="Prices__CoinCardLink-n3azef-6 ioooOI" intl="[object Object]" href="https://www.blockchain.com/prices/BCH/">
                 <div className="Prices__Header-n3azef-16 bNDbFp">
                   <div className="Prices__IconContainer-n3azef-17 bsCBuV">
-                    <img alt="BCH icon" src="/static/images/prices-bch.svg" className="Prices__Icon-n3azef-18 kRCMqn" />
+                    <img alt="BCH icon" src="/images/prices-bch.svg" className="Prices__Icon-n3azef-18 kRCMqn" />
                   </div>
                   <div className="Prices__Actions-n3azef-19 kTHItA">
                     <button className="Prices__Button-n3azef-8 eIHwN">Buy</button>
@@ -405,7 +405,7 @@ const IndexPage = () => {
              return(
               <div className="list-pic" key={index}>
                 <div className="HomePageImages__Wrapper-hjwwi0-0 GMKvW feature-image-enter-done" style={{textAlign:'center'}}>
-                <img alt="Wallet buy" style={{textAlign:'center'}} src={item.image} srcSet="/static/images/wallet-buy@2x.png 2x"  width={item.id === 3 || 4 ? "500 " :  "353" }   height={ item.id === 3 || 4 ? "400" : "353"} class="HomePageImages__FeatureImage-hjwwi0-1"/>
+                <img alt="Wallet buy" style={{textAlign:'center'}} src={item.image} srcSet="/images/wallet-buy@2x.png 2x"  width={item.id === 3 || 4 ? "500 " :  "353" }   height={ item.id === 3 || 4 ? "400" : "353"} class="HomePageImages__FeatureImage-hjwwi0-1"/>
                 </div>
                 <div
                   onClick={() => setIndex(index)} style={{marginBottom:'1.5rem'}}>
@@ -469,7 +469,7 @@ const IndexPage = () => {
              return(
               <div className="list-pic" key={index}>
                 <div className="HomePageImages__Wrapper-hjwwi0-0 GMKvW feature-image-enter-done" style={{textAlign:'center'}}>
-                <img alt="Wallet buy" style={{textAlign:'center'}} src={item.image} srcSet="/static/images/wallet-buy@2x.png 2x"  width={item.id === 3 || 4 ? "500 " :  "353" }   height={ item.id === 3 || 4 ? "400" : "353"} class="HomePageImages__FeatureImage-hjwwi0-1"/>
+                <img alt="Wallet buy" style={{textAlign:'center'}} src={item.image} srcSet="/images/wallet-buy@2x.png 2x"  width={item.id === 3 || 4 ? "500 " :  "353" }   height={ item.id === 3 || 4 ? "400" : "353"} class="HomePageImages__FeatureImage-hjwwi0-1"/>
                 </div>
                 <div
                   onClick={() => setIndex2(index)} style={{marginBottom:'1.5rem'}}>
@@ -573,7 +573,7 @@ const IndexPage = () => {
 
       </section>
       <div className="labtop" style={{ float: 'right' }}>
-        <img alt="Wallet Borrow laptop" src={Object.keys(Filter).length > 0 ? Filter.image : Data[0].image } srcSet="/static/images/exchange-api@2x.png 2x" style={{ width:Style.width , height: Style.Height} }  class="HomePageImages__FeatureImage-hjwwi0-1 HomePageImages__AlignedLeftImage-hjwwi0-2 ZJjgV" />
+        <img alt="Wallet Borrow laptop" src={Object.keys(Filter).length > 0 ? Filter.image : Data[0].image } srcSet="/images/exchange-api@2x.png 2x" style={{ width:Style.width , height: Style.Height} }  class="HomePageImages__FeatureImage-hjwwi0-1 HomePageImages__AlignedLeftImage-hjwwi0-2 ZJjgV" />
       </div>
 
       <section className="section-two">
@@ -624,7 +624,7 @@ const IndexPage = () => {
 
       </section>
       <div className="labtop2" >
-        <img alt="Exchange API"  style={{ width:Style2.width , height: Style2.Height , marginLeft:Style2.marginLeft } } src={Object.keys(Filter2).length > 0 ? Filter2.image : DataTwo[0].image } srcSet="/static/images/exchange-api@2x.png 2x"  class="HomePageImages__FeatureImage-hjwwi0-1 HomePageImages__AlignedRightImage-hjwwi0-3 gAHwYJ" />
+        <img alt="Exchange API"  style={{ width:Style2.width , height: Style2.Height , marginLeft:Style2.marginLeft } } src={Object.keys(Filter2).length > 0 ? Filter2.image : DataTwo[0].image } srcSet="/images/exchange-api@2x.png 2x"  class="HomePageImages__FeatureImage-hjwwi0-1 HomePageImages__AlignedRightImage-hjwwi0-3 gAHwYJ" />
       </div>
 
       <section className="section-three">
@@ -664,7 +664,7 @@ const IndexPage = () => {
              return(
               <div className="list-pic" key={index}>
                 <div className="HomePageImages__Wrapper-hjwwi0-0 GMKvW feature-image-enter-done" style={{textAlign:'center'}}>
-                <img alt="Wallet buy" style={{textAlign:'center'}} src={item.image} srcSet="/static/images/wallet-buy@2x.png 2x"  width={item.id === 3 || 4 ? "500 " :  "353" }   height={ item.id === 3 || 4 ? "400" : "353"} class="HomePageImages__FeatureImage-hjwwi0-1"/>
+                <img alt="Wallet buy" style={{textAlign:'center'}} src={item.image} srcSet="/images/wallet-buy@2x.png 2x"  width={item.id === 3 || 4 ? "500 " :  "353" }   height={ item.id === 3 || 4 ? "400" : "353"} class="HomePageImages__FeatureImage-hjwwi0-1"/>
                 </div>
                 <div
                   onClick={() => setIndex2(index)} style={{marginBottom:'1.5rem'}}>
@@ -763,7 +763,7 @@ const IndexPage = () => {
 
       </section>
       <div className="labtop-forth" >
-        <img alt="Exchange API"  style={{ width:Style3.width , height: Style3.Height} } src={Object.keys(Filter3).length > 0 ? Filter3.image : DataThree[0].image } srcSet="/static/images/explore-blockchains@2x.png 2x"  class="HomePageImages__FeatureImage-hjwwi0-1 HomePageImages__AlignedRightImage-hjwwi0-3 gAHwYJ" />
+        <img alt="Exchange API"  style={{ width:Style3.width , height: Style3.Height} } src={Object.keys(Filter3).length > 0 ? Filter3.image : DataThree[0].image } srcSet="/images/explore-blockchains@2x.png 2x"  class="HomePageImages__FeatureImage-hjwwi0-1 HomePageImages__AlignedRightImage-hjwwi0-3 gAHwYJ" />
       </div>
      
      {/*    Banner Zero to crypto minuts */}
@@ -776,7 +776,7 @@ const IndexPage = () => {
 
       <div className="whatsapp">
       
-      <img src="/static/images/spinningIcons.gif" aria-hidden="true" height="40" width="50" className="SimpleBuy__RotatingImage-sc-1q8ozsa-15 gAquNh"/>
+      <img src="/images/spinningIcons.gif" aria-hidden="true" height="40" width="50" className="SimpleBuy__RotatingImage-sc-1q8ozsa-15 gAquNh"/>
       <p className="Text__ParagraphSmall-sc-1fwf07x-30 SimpleBuy__BuyCryptoText-sc-1q8ozsa-7 ljteLl">Buy Crypto</p>
       
 
@@ -794,11 +794,11 @@ const IndexPage = () => {
           </div>
           <div className="Footer__SocialLinksWrapper-sc-13334au-11 xKZIB">
           <a href="https://twitter.com/blockchain" target="_blank" rel="nofollow noopener noreferrer" className="SocialLinks-sc-1z9brw-0 cwIUpI">
-          <img alt="Twitter logo" src="/static/images/twitter-color.svg" height="24" width="24"/>
+          <img alt="Twitter logo" src="/images/twitter-color.svg" height="24" width="24"/>
           <span>Twitter</span></a><a href="https://www.instagram.com/blockchainofficial/" target="_blank" rel="nofollow noopener noreferrer" className="SocialLinks-sc-1z9brw-0 cwIUpI">
-          <img alt="Instagram logo" src="/static/images/instagram.png" height="24" width="24"/>
+          <img alt="Instagram logo" src="/images/instagram.png" height="24" width="24"/>
           <span>Instagram</span></a><a href="https://medium.com/blockchain/" target="_blank" rel="nofollow noopener noreferrer" className="SocialLinks-sc-1z9brw-0 cwIUpI">
-          <img alt="Medium logo" src="/static/images/medium-plain.svg" height="24" width="24"/>
+          <img alt="Medium logo" src="/images/medium-plain.svg" height="24" width="24"/>
           <span>Medium</span></a></div>
           
         </div>
@@ -853,17 +853,17 @@ const IndexPage = () => {
           </select>
         </div>
         <div className="Footer__Row-sc-13334au-5 bZBPyr">
-          <img alt="copyright" src="/static/images/copyright.svg" height={24} width={24} />
+          <img alt="copyright" src="/images/copyright.svg" height={24} width={24} />
           <span>Blockchain.com</span><span className="Footer__NmlsText-sc-13334au-19 qPjkf">NMLS ID: 2024031</span>
         </div>
       </div>
       <div className="ButtonGroup-z74grn-0 hNahvw">
         <a rel="nofollow noopener noreferrer" target="_blank" href="https://apps.apple.com/us/app/blockchain-bitcoin-wallet/id493253309" className="Link__CustomLink-sc-1p80yfz-0 chwvAc">
           <button height="2.5rem" aria-label="Download iOS App" href="https://apps.apple.com/us/app/blockchain-bitcoin-wallet/id493253309" target="_blank" rel="nofollow noopener noreferrer" type="submit" className="Button__DefaultButton-sc-1e82yhp-2 cmPPLv">
-            <img alt="App Store logo" src="/static/images/footer-ios.png" height={52} width={156} className="Footer__AppStore-sc-13334au-15 ctBiDe" />
+            <img alt="App Store logo" src="/images/footer-ios.png" height={52} width={156} className="Footer__AppStore-sc-13334au-15 ctBiDe" />
           </button></a><a rel="nofollow noopener noreferrer" target="_blank" href="https://play.google.com/store/apps/details?id=piuk.blockchain.android" className="Link__CustomLink-sc-1p80yfz-0 chwvAc">
           <button height="2.5rem" aria-label="Download Android App" href="https://play.google.com/store/apps/details?id=piuk.blockchain.android" target="_blank" rel="nofollow noopener noreferrer" type="submit" className="Button__DefaultButton-sc-1e82yhp-2 cmPPLv">
-            <img alt="Google Play logo" src="/static/images/footer-android.png" height={52} width={156} className="Footer__GooglePlay-sc-13334au-16 enKiaU" /></button>
+            <img alt="Google Play logo" src="/images/footer-android.png" height={52} width={156} className="Footer__GooglePlay-sc-13334au-16 enKiaU" /></button>
         </a></div></div>
   </div>
 </div>
