@@ -367,7 +367,7 @@ body {
         }
         
         .mainPage .blockchain {
-            background: url(/images/home-hero-gradient.svg);
+            background: url(./home-hero-gradient.svg);
             background-position: center;
             background-size: cover;
             margin-top: -2rem;
