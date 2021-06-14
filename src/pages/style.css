@@ -1034,16 +1034,7 @@ body {
             font-size: 20px
         }
 
-        .logo-list h2::after {
-            content: "";
-            height: 1px;
-            width: 17%;
-            background: rgb(249, 88, 20);
-            position: absolute;
-            bottom: 0px;
-            left:5.5rem;
-            top: 300.5rem;
-        }
+    
      
         
         

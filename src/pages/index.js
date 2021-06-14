@@ -7,7 +7,6 @@ import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import './style.css'
 import Industry from '../components/industrySol'
-import Header from '../components/header'
 const IndexPage = () => {
 
     const [Style, setStyle] = useState({ width: "427px", height: "576px" })

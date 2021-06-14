@@ -1,6 +1,7 @@
 import React from 'react'
 import Slider from "react-slick";
 import './ind.css'
+import logo from './logoo1.png'
 class Industry extends React.Component {
   constructor(props) {
     super(props);
@@ -59,7 +60,7 @@ class SimpleSlider extends React.Component {
         <div>
           <div className="slider">
             <div className="product">
-              <img src="/images/logoo1.png" alt="image" />
+              <img src={logo} alt="image" />
               <div className="pro-desc">
                 <h4>VIP/Celebrity cyber protection, E-commerce</h4>
                 <button className="btn btn-outline Btn--ghost-2 Btn--transparent">Explore</button>
@@ -71,7 +72,7 @@ class SimpleSlider extends React.Component {
         <div>
           <div className="slider">
             <div className="product">
-              <img src="/images/logoo1.png" alt="image" />
+              <img src={logo} alt="image" />
               <div className="pro-desc">
                 <h4>SMB’s</h4>
                 <button className="btn btn-outline Btn--ghost-2 Btn--transparent">Explore</button>
@@ -83,7 +84,7 @@ class SimpleSlider extends React.Component {
         <div>
           <div className="slider">
             <div className="product">
-              <img src="/images/logoo1.png" alt="image" />
+              <img src={logo} alt="image" />
               <div className="pro-desc">
                 <h4>Banking & Financial</h4>
                 <button className="btn btn-outline Btn--ghost-2 Btn--transparent">Explore</button>
@@ -96,7 +97,7 @@ class SimpleSlider extends React.Component {
         <div>
           <div className="slider">
             <div className="product">
-              <img src="/images/logoo1.png" alt="image" />
+              <img src={logo} alt="image" />
               <div className="pro-desc">
                 <h4>Education</h4>
                 <button className="btn btn-outline Btn--ghost-2 Btn--transparent">Explore</button>
@@ -108,7 +109,7 @@ class SimpleSlider extends React.Component {
         <div>
           <div className="slider">
             <div className="product">
-              <img src="/images/logoo1.png" alt="image" />
+              <img src={logo} alt="image" />
               <div className="pro-desc">
                 <h4>Health</h4>
                 <button className="btn btn-outline Btn--ghost-2 Btn--transparent">Explore</button>
@@ -120,7 +121,7 @@ class SimpleSlider extends React.Component {
         <div>
           <div className="slider">
             <div className="product">
-              <img src="/images/logoo1.png" alt="image" />
+              <img src={logo} alt="image" />
               <div className="pro-desc">
                 <h4>Government agencies</h4>
                 <button className="btn btn-outline Btn--ghost-2 Btn--transparent">Explore</button>
@@ -133,7 +134,7 @@ class SimpleSlider extends React.Component {
         <div>
           <div className="slider">
             <div className="product">
-              <img src="/images/logoo1.png" alt="image" />
+              <img src={logo} alt="image" />
               <div className="pro-desc">
                 <h4>Technology & Telecoms verticals </h4>
                 <button className="btn btn-outline Btn--ghost-2 Btn--transparent">Explore</button>
