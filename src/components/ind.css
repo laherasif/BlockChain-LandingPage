@@ -1,5 +1,5 @@
 .slider{
-    background: url(/images/sliders1.png);
+    background: url(../components/slider1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
