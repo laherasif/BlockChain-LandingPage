@@ -279,7 +279,7 @@ const IndexPage = () => {
                                   </ul>
                                 </li>
                                 <li><Link to="/">Marketplace</Link></li>
-                                {/* <li ><Link to="/" style={{fontSize:'30px'}}>...</Link>
+                                <li ><Link to="/" style={{fontSize:'30px'}}>...</Link>
                                   <ul class="drop">
                                     <div className="row">
                                     <div className="col-md-4">
@@ -305,7 +305,7 @@ const IndexPage = () => {
                                     
                                   </div>
                                   </ul>
-                                </li> */}
+                                </li>
                                <li>
                                
                                  </li>
@@ -320,6 +320,7 @@ const IndexPage = () => {
                         </div>
                       </div>
                       </header> 
+                      
 
                    
 
@@ -339,8 +340,10 @@ const IndexPage = () => {
   </div>
 </div>
 
+
         </div>
       </div>
+      
       <div classname="container">
       <div className="Prices__Wrapper-n3azef-0 hPrCxG pages__CoinsPrices-sc-4cqbfo-1 gETplh">
         <div className="Prices__ContentContainer-n3azef-1 jVLwBo">
